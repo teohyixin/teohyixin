@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi there, I'm Teoh Yi Xin
 
-<!--
-**teohyixin/teohyixin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 About Me
+- 🚀 Final Year **Computer Science (Honours)** student at **Multimedia University (MMU)**.
+- 💻 Passionate about Web Development and System Analysis.
+- 🌍 Interested in learning Korean and building impactful IT solutions.
 
-Here are some ideas to get you started:
+### 🛠 Technical Skills
+- **Languages:** PHP, Python, Java, HTML5, CSS3, JavaScript.
+- **Frameworks:** Django.
+- **Database:** MySQL, SQLite.
+- **Tools:** XAMPP, VS Code, Git/GitHub.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📂 Featured Projects
+- **[ZooVista](https://github.com/teohyixin/Zoo-Website-Jungle-Zoo)** - Integrated Zoo Management System (PHP/MySQL).
+- **[ShareU](https://github.com/teohyixin/ShareU-University-Resource-Sharing-Platform)** - Campus Resource Sharing Platform (Python/Django).
+
+### 📫 Get in touch
+- **GitHub:** [teohyixin](https://github.com/teohyixin)
