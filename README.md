@@ -5,7 +5,7 @@
 - 💻 Passionate about Full-Stack Web Development, Mobile App Development, and System Analysis.
 
 ### 🛠 Technical Skills
-- **Languages:** PHP, Python, Java, Kotlin, HTML5, CSS3, JavaScript.
+- **Languages:** PHP, Python, Java, HTML, CSS, JavaScript.
 - **Frameworks:** Django, Android SDK.
 - **Database:** MySQL, SQLite, Firebase Realtime Database.
 - **Tools:** XAMPP, Android Studio, VS Code, Git/GitHub.
