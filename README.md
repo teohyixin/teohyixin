@@ -2,18 +2,19 @@
 
 ### 🎓 About Me
 - 🚀 Final Year **Computer Science (Honours)** student at **Multimedia University (MMU)**.
-- 💻 Passionate about Web Development and System Analysis.
-- 🌍 Interested in learning Korean and building impactful IT solutions.
+- 💻 Passionate about Full-Stack Web Development, Mobile App Development, and System Analysis.
 
 ### 🛠 Technical Skills
-- **Languages:** PHP, Python, Java, HTML5, CSS3, JavaScript.
-- **Frameworks:** Django.
-- **Database:** MySQL, SQLite.
-- **Tools:** XAMPP, VS Code, Git/GitHub.
+- **Languages:** PHP, Python, Java, Kotlin, HTML5, CSS3, JavaScript.
+- **Frameworks:** Django, Android SDK.
+- **Database:** MySQL, SQLite, Firebase Realtime Database.
+- **Tools:** XAMPP, Android Studio, VS Code, Git/GitHub.
 
 ### 📂 Featured Projects
-- **[ZooVista](https://github.com/teohyixin/Zoo-Website-Jungle-Zoo)** - Integrated Zoo Management System (PHP/MySQL).
-- **[ShareU](https://github.com/teohyixin/ShareU-University-Resource-Sharing-Platform)** - Campus Resource Sharing Platform (Python/Django).
+
+- **[Residential Property Management System](https://github.com/teohyixin/Residential-Property-Management-System)** - A comprehensive management platform with 4 user roles (Admin, Manager, Landlord, Tenant) built with **PHP/MySQL**.
+- **[ZooVista](https://github.com/teohyixin/Zoo-Website-Jungle-Zoo)** - Integrated Zoo Management System featuring e-commerce and staff dashboards (**PHP/MySQL**).
+- **[ShareU](https://github.com/teohyixin/ShareU-University-Resource-Sharing-Platform)** - Campus Resource Sharing Platform developed using the **Django** framework (**Python**).
 
 ### 📫 Get in touch
 - **GitHub:** [teohyixin](https://github.com/teohyixin)
