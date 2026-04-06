@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Teoh Yi Xin
+# 👋 Hi, I'm Teoh Yi Xin
 
 ### 🎓 About Me
 - 🚀 Final Year **Computer Science (Honours)** student at **Multimedia University (MMU)**.
