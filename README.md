@@ -2,7 +2,7 @@
 
 ### 🎓 About Me
 - 🚀 Final Year **Computer Science (Honours)** student at **Multimedia University (MMU)**.
-- 💻 Passionate about Full-Stack Web Development, Mobile App Development, and System Analysis.
+- 💻 Passionate about Full-Stack Web Development and Mobile App Development.
 
 ### 🛠 Technical Skills
 - **Languages:** PHP, Python, Java, HTML, CSS, JavaScript.
